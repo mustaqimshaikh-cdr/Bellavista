@@ -1,0 +1,14 @@
+EMAIL LOG - 2025-10-22 16:14:43
+To: shaikhmustaqim71@gmail.com
+Subject: Reservation Confirmation - Bella Vista Restaurant
+Message: Dear Mustaquim Shaikh, thank you for your reservation!
+Reservation ID: #373933
+---
+
+EMAIL LOG - 2025-10-22 16:26:59
+To: shaikhmustaqim71@gmail.com
+Subject: Reservation Confirmation - Bella Vista Restaurant
+Message: Dear Mustaquim Shaikh, thank you for your reservation!
+Reservation ID: #000002
+---
+

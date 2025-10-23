@@ -1,0 +1,6 @@
+# Minimal .htaccess for testing
+# Enable mod_rewrite
+RewriteEngine On
+
+# Allow access to all files for now (for debugging)
+# Comment out problematic rules temporarily
